@@ -1,0 +1,59 @@
+{
+  "slug": "truth-table-lab",
+  "url": "https://nanalab.kr/truth-table-lab/",
+  "languages": [
+    "ko",
+    "en",
+    "es",
+    "zh",
+    "ja",
+    "de"
+  ],
+  "locales": {
+    "ko": {
+      "name": "논리회로 진리표",
+      "description": "불 대수식의 최대 6변수 진리표·등가 곱의 합과 2~4변수 카르노 맵을 확인하세요.",
+      "image_alt": "논리회로 진리표"
+    },
+    "en": {
+      "name": "Truth Table Lab",
+      "description": "Explore truth tables with up to six variables, an equivalent sum of products and Karnaugh maps for two to four variables.",
+      "image_alt": "Truth Table Lab"
+    },
+    "es": {
+      "name": "Laboratorio de tablas de verdad",
+      "description": "Explora tablas de verdad de hasta seis variables, una suma de productos equivalente y mapas de Karnaugh de dos a cuatro variables.",
+      "image_alt": "Laboratorio de tablas de verdad"
+    },
+    "zh": {
+      "name": "逻辑真值表实验室",
+      "description": "查看布尔表达式最多 6 个变量的真值表、等价与或式，以及 2～4 个变量的卡诺图。",
+      "image_alt": "逻辑真值表实验室"
+    },
+    "ja": {
+      "name": "論理回路の真理値表",
+      "description": "ブール式の最大6変数の真理値表、等価な積和形、2～4変数のカルノー図を確認できます。",
+      "image_alt": "論理回路の真理値表"
+    },
+    "de": {
+      "name": "Wahrheitstabellen-Labor",
+      "description": "Untersuchen Sie Wahrheitstabellen mit bis zu sechs Variablen, eine äquivalente disjunktive Form und Karnaugh-Diagramme für zwei bis vier Variablen.",
+      "image_alt": "Wahrheitstabellen-Labor"
+    },
+    "fr": {
+      "name": "Laboratoire de tables de vérité",
+      "description": "Explorez des tables de vérité jusqu'à six variables, une somme de produits équivalente et des cartes de Karnaugh de deux à quatre variables.",
+      "image_alt": "Laboratoire de tables de vérité"
+    },
+    "pt": {
+      "name": "Laboratório de tabelas-verdade",
+      "description": "Explore tabelas-verdade com até seis variáveis, uma soma de produtos equivalente e mapas de Karnaugh de duas a quatro variáveis.",
+      "image_alt": "Laboratório de tabelas-verdade"
+    },
+    "ru": {
+      "name": "Лаборатория таблиц истинности",
+      "description": "Изучайте таблицы истинности до шести переменных, эквивалентную дизъюнктивную форму и карты Карно для двух–четырёх переменных.",
+      "image_alt": "Лаборатория таблиц истинности"
+    }
+  }
+}
